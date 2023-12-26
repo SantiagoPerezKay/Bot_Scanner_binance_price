@@ -11,14 +11,14 @@ script que scannea todo el tiempo un rango de precio 'X' en un intervalo 'Y' y m
 - libraries for python (pandas v1.5.3)
 
 #### instructions
-> 1.download project from github
-> 2.install the 2 libraries
-> 3.create a bot and a telegram channel, and add the bot to the channel with permissions so that it can write to said channel.
-> 4.change the values to your search preference for the following variables:
+- 1.download project from github
+- 2.install the 2 libraries
+- 3.create a bot and a telegram channel, and add the bot to the channel with permissions so that it can write to said channel.
+- 4.change the values to your search preference for the following variables:
 timelineinterval = 3     #type of sail that will be taken as a reference
 cant_velas = 11          #How many candles will it take to carry out the search
 move = 1                 #movement percentage to search
-> 5.run script!!!.
+- 5.run script!!!.
 
 # youtube video
 [Binance-bot-scanner](https://youtu.be/2C94aymlr1E)
