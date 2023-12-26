@@ -1,0 +1,6 @@
+Python v3.11.1
+pip v23.0.1
+
+librarys:
+requests v2.28.2
+pandas v1.5.3
