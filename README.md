@@ -21,4 +21,4 @@ move = 1                 #movement percentage to search
 - 5.run script!!!.
 
 # youtube video
-[![](http://img.youtube.com/vi/2C94aymlr1E/0.jpg)](https://www.youtube.com/watch?v=2C94aymlr1E)
+[![Descripción del segundo video](http://img.youtube.com/vi/X8JchRszT4o/0.jpg)](https://youtu.be/X8JchRszT4o?si=dA_Rg9dUyDbevp97)
