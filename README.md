@@ -21,4 +21,4 @@ move = 1                 #movement percentage to search
 - 5.run script!!!.
 
 # youtube video
-[Binance-bot-scanner](https://youtu.be/2C94aymlr1E)
+[![](http://img.youtube.com/vi/2C94aymlr1E/0.jpg)](https://www.youtube.com/watch?v=2C94aymlr1E)
